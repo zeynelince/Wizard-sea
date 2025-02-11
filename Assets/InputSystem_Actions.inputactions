@@ -177,8 +177,8 @@
                     "isPartOfComposite": true
                 },
                 {
-                    "name": "right",
-                    "id": "fcfe95b8-67b9-4526-84b5-5d0bc98d6400",
+                    "name": "Right",
+                    "id": "248641ca-0034-4122-ad67-11c035bbc344",
                     "path": "<Keyboard>/d",
                     "interactions": "",
                     "processors": "",
